@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "boo.json"
+  ],
+  "homeserver_url": "https://matrix.sangam.cloud"
+}
